@@ -1,6 +1,6 @@
 ### 👋 Hey I'm Siddharth
 Computer Science Engineering student with a strong interest in
-problem-solving, backend development, and building real-world applications.
+problem-solving, backend development, and 
 building full-stack applications with a focus on clean architecture and real-world usability.
 I care about writing code that's maintainable, scalable, and actually solves problems.
 
