@@ -4,8 +4,6 @@ problem-solving, backend development, and building real-world applications.
 building full-stack applications with a focus on clean architecture and real-world usability.
 I care about writing code that's maintainable, scalable, and actually solves problems.
 
-🚀 Featured Projects
-
 ---
 
 ### 🛠️ Tech Stack
