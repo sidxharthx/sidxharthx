@@ -56,7 +56,8 @@ I care about writing code that's maintainable, scalable, and actually solves pro
 
 ---
 
-### 📫 How to reach me?
-- GitHub: https://github.com/sidxharthx
-- LinkedIn: https://linkedin.com/in/siddharth308
-- Email: siddharthjaiswal308@gmail.com
+## 📫 How to Reach Me
+
+- **GitHub:** https://github.com/sidxharthx
+- **LinkedIn:** https://linkedin.com/in/siddharth308
+- **Email:** siddharthjaiswal308@gmail.com
