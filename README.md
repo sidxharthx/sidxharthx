@@ -1,6 +1,10 @@
-### 👋 Who am I?
-I’m **Siddharth**, a Computer Science Engineering student with a strong interest in
+### 👋 Hey I'm Siddharth
+Computer Science Engineering student with a strong interest in
 problem-solving, backend development, and building real-world applications.
+building full-stack applications with a focus on clean architecture and real-world usability.
+I care about writing code that's maintainable, scalable, and actually solves problems.
+
+🚀 Featured Projects
 
 ---
 
